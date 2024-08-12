@@ -1,5 +1,4 @@
 # Below is a simple Python program that acts as a basic calculator. It prompts the user to enter two numbers and choose an operation. Then, it performs the selected operation and displays the result to the user.
-
 # Define a function to perform addition
 def add(num1, num2):
     return num1 + num2
